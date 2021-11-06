@@ -6,16 +6,20 @@
 
 <script>
 export default {
-  name: 'Home',
-}
+  name: "Home",
+};
 </script>
 
 <style lang="scss">
 .home {
+  height: 2000px;
+  width: 100%;
 
   h1 {
+    font-family: "Graduate", cursive;
     margin: 0;
+    text-align: center;
+    font-size: 3em;
   }
 }
-
 </style>
